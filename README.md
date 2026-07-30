@@ -1,1 +1,1 @@
-this project aims to give the instructions and the files needed to root every Phone.
+Rooting à Phone is a risky process, all the contributors of this projet deny all responsability for any damaged caused by à misfunctioning of the process.
